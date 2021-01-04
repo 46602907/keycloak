@@ -32,6 +32,7 @@
 
     <properties>
         <quarkus.version>1.10.0.CR1</quarkus.version>
+<!--        <quarkus.version>1.10.5.Final</quarkus.version>-->
         <resteasy.version>4.5.8.Final</resteasy.version>
         <jackson.version>2.11.3</jackson.version>
         <jackson.databind.version>${jackson.version}</jackson.databind.version>
